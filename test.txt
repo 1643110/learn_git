@@ -7,3 +7,6 @@ testhoge3
 I was happy.
 create branch b1.
 modified for b1.
+
+‚Ç‚ñ‚È‚à`
+
